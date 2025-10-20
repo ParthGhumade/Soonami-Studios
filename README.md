@@ -13,8 +13,7 @@ This project demonstrates the use of **HTML page linking**, **lists**, **tables*
 
 | Page                  | Description                                                                                                             |
 |-----------------------|-------------------------------------------------------------------------------------------------------------------------|
-| **index.html**        | The homepage introducing Soonami Studios. Lists major projects (Minecraft, Asphalt Legends, Free City, Angry Birds) with|
-|                       |clickable images linking to external sites.                                                                              |
+| **index.html**        | The homepage introducing Soonami Studios. Lists major projects (Minecraft, Asphalt Legends, Free City, Angry Birds) with clickable images linking to external sites.|
 | **Client.html**       | Highlights the studio’s clients and collaborators with descriptions and images.                                         |
 | **hackathon.html**    | Provides details about Soonami Studios’ hackathons, including a structured table of event phases and durations.         |
 
@@ -54,6 +53,7 @@ This project demonstrates the use of **HTML page linking**, **lists**, **tables*
 
 ## 🗂️ File Structure
 
+```plaintext
 Soonami-Studios/
 │
 ├── index.html
@@ -71,7 +71,7 @@ Soonami-Studios/
     ├── m.jpg
     ├── hack1.jpg
     └── hack2.jpeg
-
+```
 
 ---
 
