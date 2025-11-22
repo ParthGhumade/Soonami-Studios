@@ -80,3 +80,6 @@ Soonami-Studios/
 1. **Download or Clone** this repository.  
    ```bash
    git clone https://github.com/yourusername/soonami-studios.git
+2. Download zip
+   |->Unzip the file
+   |->open index.html
